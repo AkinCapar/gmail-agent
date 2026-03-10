@@ -221,3 +221,6 @@ data/
 # Google OAuth Secrets
 credentials.json
 token.json
+
+.DS_Store
+**/.DS_Store
